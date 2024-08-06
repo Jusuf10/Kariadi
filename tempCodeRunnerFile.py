@@ -1,0 +1,1 @@
+if dikerjakan_bagian == 9
